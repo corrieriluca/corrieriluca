@@ -18,7 +18,7 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 
 🤔 I would like to learn more about web programming, especially modern JS frameworks...
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=corrieriluca&count_private=true&show_icons=true&theme=monokai)](#)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=corrieriluca&count_private=true&include_all_commits=true&show_icons=true&theme=monokai)](#)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corrieriluca&layout=compact&theme=monokai)](#)
 
 📫 Feel free to reach me on [Telegram](https://t.me/luccorri) or Discord (@iralo#5475) !
