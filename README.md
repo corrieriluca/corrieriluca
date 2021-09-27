@@ -24,3 +24,9 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corrieriluca&layout=compact&theme=monokai)](#)
 
 📫 Feel free to reach me on [Telegram](https://t.me/luccorri) or Discord (@iralo#5475) !
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
