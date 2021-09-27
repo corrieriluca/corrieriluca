@@ -1,5 +1,7 @@
 ### Hi there, I'm Luca Corrieri
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=corrieriluca.corrieriluca)
+
 👋 I'm a 20 yo French CS student at [EPITA](https://www.epita.fr/) in Paris, France.
 I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 
