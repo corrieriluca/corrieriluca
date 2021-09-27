@@ -30,3 +30,9 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#6](https://github.com/AndreyAkinshin/perfolizer/issues/6) in [AndreyAkinshin/perfolizer](https://github.com/AndreyAkinshin/perfolizer)
+2. 🗣 Commented on [#6](https://github.com/AndreyAkinshin/perfolizer/issues/6) in [AndreyAkinshin/perfolizer](https://github.com/AndreyAkinshin/perfolizer)
+3. 🗣 Commented on [#7](https://github.com/AndreyAkinshin/perfolizer/issues/7) in [AndreyAkinshin/perfolizer](https://github.com/AndreyAkinshin/perfolizer)
+4. 💪 Opened PR [#7](https://github.com/AndreyAkinshin/perfolizer/pull/7) in [AndreyAkinshin/perfolizer](https://github.com/AndreyAkinshin/perfolizer)
+5. ❗️ Opened issue [#6](https://github.com/AndreyAkinshin/perfolizer/issues/6) in [AndreyAkinshin/perfolizer](https://github.com/AndreyAkinshin/perfolizer)
+<!--END_SECTION:activity-->
