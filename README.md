@@ -30,9 +30,9 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/Epidocs/epita.it/issues/72) in [Epidocs/epita.it](https://github.com/Epidocs/epita.it)
+1. 💪 Opened PR [#118](https://github.com/fcsonline/drill/pull/118) in [fcsonline/drill](https://github.com/fcsonline/drill)
 2. 🗣 Commented on [#72](https://github.com/Epidocs/epita.it/issues/72) in [Epidocs/epita.it](https://github.com/Epidocs/epita.it)
-3. ❗️ Opened issue [#341](https://github.com/dotnet/crank/issues/341) in [dotnet/crank](https://github.com/dotnet/crank)
-4. ❗️ Opened issue [#117](https://github.com/fcsonline/drill/issues/117) in [fcsonline/drill](https://github.com/fcsonline/drill)
-5. 🗣 Commented on [#1738](https://github.com/dotnet/BenchmarkDotNet/issues/1738) in [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+3. 🗣 Commented on [#72](https://github.com/Epidocs/epita.it/issues/72) in [Epidocs/epita.it](https://github.com/Epidocs/epita.it)
+4. ❗️ Opened issue [#341](https://github.com/dotnet/crank/issues/341) in [dotnet/crank](https://github.com/dotnet/crank)
+5. ❗️ Opened issue [#117](https://github.com/fcsonline/drill/issues/117) in [fcsonline/drill](https://github.com/fcsonline/drill)
 <!--END_SECTION:activity-->
