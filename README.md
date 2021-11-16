@@ -18,8 +18,6 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 [![HTML](https://img.shields.io/badge/HTML-f16625?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-264ee4?style=flat-square&logo=css3&logoColor=white)](#)
 
-🤔 I would like to learn more about web programming, especially modern JS frameworks...
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=corrieriluca&count_private=true&include_all_commits=true&show_icons=true&theme=monokai)](#)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corrieriluca&layout=compact&theme=monokai)](#)
 
