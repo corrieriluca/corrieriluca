@@ -28,9 +28,9 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/fcsonline/drill/issues/106) in [fcsonline/drill](https://github.com/fcsonline/drill)
-2. 🗣 Commented on [#118](https://github.com/fcsonline/drill/issues/118) in [fcsonline/drill](https://github.com/fcsonline/drill)
-3. 💪 Opened PR [#118](https://github.com/fcsonline/drill/pull/118) in [fcsonline/drill](https://github.com/fcsonline/drill)
-4. 🗣 Commented on [#72](https://github.com/Epidocs/epita.it/issues/72) in [Epidocs/epita.it](https://github.com/Epidocs/epita.it)
+1. 🗣 Commented on [#121](https://github.com/fcsonline/drill/issues/121) in [fcsonline/drill](https://github.com/fcsonline/drill)
+2. 🗣 Commented on [#106](https://github.com/fcsonline/drill/issues/106) in [fcsonline/drill](https://github.com/fcsonline/drill)
+3. 🗣 Commented on [#118](https://github.com/fcsonline/drill/issues/118) in [fcsonline/drill](https://github.com/fcsonline/drill)
+4. 💪 Opened PR [#118](https://github.com/fcsonline/drill/pull/118) in [fcsonline/drill](https://github.com/fcsonline/drill)
 5. 🗣 Commented on [#72](https://github.com/Epidocs/epita.it/issues/72) in [Epidocs/epita.it](https://github.com/Epidocs/epita.it)
 <!--END_SECTION:activity-->
