@@ -28,9 +28,9 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com/dotnet/crank/issues/354) in [dotnet/crank](https://github.com/dotnet/crank)
-2. 🗣 Commented on [#346](https://github.com/dotnet/crank/issues/346) in [dotnet/crank](https://github.com/dotnet/crank)
+1. 🗣 Commented on [#364](https://github.com/dotnet/crank/issues/364) in [dotnet/crank](https://github.com/dotnet/crank)
+2. 🗣 Commented on [#354](https://github.com/dotnet/crank/issues/354) in [dotnet/crank](https://github.com/dotnet/crank)
 3. 🗣 Commented on [#346](https://github.com/dotnet/crank/issues/346) in [dotnet/crank](https://github.com/dotnet/crank)
-4. 🗣 Commented on [#356](https://github.com/dotnet/crank/issues/356) in [dotnet/crank](https://github.com/dotnet/crank)
-5. ❗️ Opened issue [#356](https://github.com/dotnet/crank/issues/356) in [dotnet/crank](https://github.com/dotnet/crank)
+4. 🗣 Commented on [#346](https://github.com/dotnet/crank/issues/346) in [dotnet/crank](https://github.com/dotnet/crank)
+5. 🗣 Commented on [#356](https://github.com/dotnet/crank/issues/356) in [dotnet/crank](https://github.com/dotnet/crank)
 <!--END_SECTION:activity-->
