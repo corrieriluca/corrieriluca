@@ -18,8 +18,8 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 [![HTML](https://img.shields.io/badge/HTML-f16625?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-264ee4?style=flat-square&logo=css3&logoColor=white)](#)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=corrieriluca&count_private=true&include_all_commits=true&show_icons=true&theme=monokai)](#)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corrieriluca&layout=compact&theme=monokai)](#)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=corrieriluca&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corrieriluca&layout=compact&theme=github_dark)](#)
 
 📫 Feel free to reach me on [Telegram](https://t.me/luccorri) or Discord (@iralo#5475) !
 
