@@ -28,9 +28,9 @@ I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
+1. 💪 Opened PR [#372](https://github.com/dotnet/crank/pull/372) in [dotnet/crank](https://github.com/dotnet/crank)
 2. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
-3. 🗣 Commented on [#364](https://github.com/dotnet/crank/issues/364) in [dotnet/crank](https://github.com/dotnet/crank)
-4. 🗣 Commented on [#464](https://github.com/gitpod-io/workspace-images/issues/464) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-5. 🗣 Commented on [#364](https://github.com/dotnet/crank/issues/364) in [dotnet/crank](https://github.com/dotnet/crank)
+3. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
+4. 🗣 Commented on [#364](https://github.com/dotnet/crank/issues/364) in [dotnet/crank](https://github.com/dotnet/crank)
+5. 🗣 Commented on [#464](https://github.com/gitpod-io/workspace-images/issues/464) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
 <!--END_SECTION:activity-->
