@@ -5,6 +5,8 @@
 👋 I'm a 20 yo French CS student at [EPITA](https://www.epita.fr/) in Paris, France.
 I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 
+🦀 Currently playing with Rust!
+
 💻 I code mostly in:
 [![C](https://img.shields.io/badge/C-2570ae.svg?style=flat-square&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2b%2b-659bd3.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
