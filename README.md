@@ -3,15 +3,14 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=corrieriluca.corrieriluca)
 
 👋 I'm a 21 yo French CS student at [EPITA](https://www.epita.fr/) in Paris, France.
-I'm currently doing a 5 months internship at [Lucca](https://www.lucca-hr.com/).
 
 🦀 Currently playing with Rust!
 
 💻 I code mostly in:
-[![C](https://img.shields.io/badge/C-2570ae.svg?style=flat-square&logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2b%2b-659bd3.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-1e9e25.svg?style=flat-square&logo=c%20sharp&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-c14566?style=flat-square&logo=rust&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-2570ae.svg?style=flat-square&logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2b%2b-659bd3.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3b78a7.svg?style=flat-square&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ea2e2d.svg?style=flat-square&logo=java&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4ab056?style=flat-square&logo=gnu%20bash&logoColor=white)](#)
