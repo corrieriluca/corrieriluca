@@ -29,8 +29,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#381](https://github.com/dotnet/crank/pull/381) in [dotnet/crank](https://github.com/dotnet/crank)
-2. 💪 Opened PR [#374](https://github.com/dotnet/crank/pull/374) in [dotnet/crank](https://github.com/dotnet/crank)
+1. 🗣 Commented on [#1360](https://github.com/terraform-provider-openstack/terraform-provider-openstack/issues/1360) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
+2. 💪 Opened PR [#381](https://github.com/dotnet/crank/pull/381) in [dotnet/crank](https://github.com/dotnet/crank)
 3. 💪 Opened PR [#372](https://github.com/dotnet/crank/pull/372) in [dotnet/crank](https://github.com/dotnet/crank)
 4. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
 5. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
