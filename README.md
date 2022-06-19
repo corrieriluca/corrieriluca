@@ -39,9 +39,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/corrieriluca/raytracing-in-rust/pull/2) in [corrieriluca/raytracing-in-rust](https://github.com/corrieriluca/raytracing-in-rust)
-2. 🗣 Commented on [#1360](https://github.com/terraform-provider-openstack/terraform-provider-openstack/issues/1360) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
-3. 💪 Opened PR [#372](https://github.com/dotnet/crank/pull/372) in [dotnet/crank](https://github.com/dotnet/crank)
+1. 🎉 Merged PR [#12](https://github.com/corrieriluca/realworld-actix-web/pull/12) in [corrieriluca/realworld-actix-web](https://github.com/corrieriluca/realworld-actix-web)
+2. 🎉 Merged PR [#2](https://github.com/corrieriluca/raytracing-in-rust/pull/2) in [corrieriluca/raytracing-in-rust](https://github.com/corrieriluca/raytracing-in-rust)
+3. 🗣 Commented on [#1360](https://github.com/terraform-provider-openstack/terraform-provider-openstack/issues/1360) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
 4. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
 5. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
 <!--END_SECTION:activity-->
