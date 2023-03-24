@@ -2,9 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=corrieriluca.corrieriluca)
 
-👋 I'm a 21 yo French CS student at [EPITA](https://www.epita.fr/) in Paris, France.
+👋 I'm a 22 yo Site Reliability Engineer at [Padok](https://www.padok.fr/) in Paris, France.
 
-☁️ Currently playing with Terraform and Ansible on AWS and OpenStack!
+☁️ Currently working on Kubernetes, Terraform, AWS and GCP!
 
 💻 Programming Languages:
 [![C#](https://img.shields.io/badge/C%23-1e9e25.svg?style=flat-square&logo=c%20sharp&logoColor=white)](#)
