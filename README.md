@@ -39,9 +39,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/padok-team/yatas-aws/pull/87) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
-2. 🗣 Commented on [#13](https://github.com/corrieriluca/realworld-actix-web/issues/13) in [corrieriluca/realworld-actix-web](https://github.com/corrieriluca/realworld-actix-web)
-3. 🗣 Commented on [#1360](https://github.com/terraform-provider-openstack/terraform-provider-openstack/issues/1360) in [terraform-provider-openstack/terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack)
-4. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
+1. 💪 Opened PR [#88](https://github.com/padok-team/yatas-aws/pull/88) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
+2. 💪 Opened PR [#102](https://github.com/padok-team/yatas/pull/102) in [padok-team/yatas](https://github.com/padok-team/yatas)
+3. 💪 Opened PR [#87](https://github.com/padok-team/yatas-aws/pull/87) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
+4. 🗣 Commented on [#13](https://github.com/corrieriluca/realworld-actix-web/issues/13) in [corrieriluca/realworld-actix-web](https://github.com/corrieriluca/realworld-actix-web)
 5. 🗣 Commented on [#124](https://github.com/fcsonline/drill/issues/124) in [fcsonline/drill](https://github.com/fcsonline/drill)
 <!--END_SECTION:activity-->
