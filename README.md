@@ -39,9 +39,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/padok-team/yatas-gcp/pull/8) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-2. 💪 Opened PR [#88](https://github.com/padok-team/yatas-aws/pull/88) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
-3. 💪 Opened PR [#102](https://github.com/padok-team/yatas/pull/102) in [padok-team/yatas](https://github.com/padok-team/yatas)
-4. 💪 Opened PR [#87](https://github.com/padok-team/yatas-aws/pull/87) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
-5. 🗣 Commented on [#13](https://github.com/corrieriluca/realworld-actix-web/issues/13) in [corrieriluca/realworld-actix-web](https://github.com/corrieriluca/realworld-actix-web)
+1. 💪 Opened PR [#12](https://github.com/padok-team/yatas-template/pull/12) in [padok-team/yatas-template](https://github.com/padok-team/yatas-template)
+2. 🎉 Merged PR [#8](https://github.com/padok-team/yatas-gcp/pull/8) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+3. 💪 Opened PR [#88](https://github.com/padok-team/yatas-aws/pull/88) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
+4. 💪 Opened PR [#102](https://github.com/padok-team/yatas/pull/102) in [padok-team/yatas](https://github.com/padok-team/yatas)
+5. 💪 Opened PR [#87](https://github.com/padok-team/yatas-aws/pull/87) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
 <!--END_SECTION:activity-->
