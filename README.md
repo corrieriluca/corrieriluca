@@ -32,9 +32,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#124](https://github.com/padok-team/burrito/issues/124) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🎉 Merged PR [#1](https://github.com/corrieriluca/burrito/pull/1) in [corrieriluca/burrito](https://github.com/corrieriluca/burrito)
-3. 💪 Opened PR [#1](https://github.com/corrieriluca/burrito/pull/1) in [corrieriluca/burrito](https://github.com/corrieriluca/burrito)
-4. 💪 Opened PR [#14](https://github.com/padok-team/yatas-gcp/pull/14) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-5. 🎉 Merged PR [#9](https://github.com/padok-team/yatas-gcp/pull/9) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+1. 💪 Opened PR [#125](https://github.com/padok-team/burrito/pull/125) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. ❗️ Opened issue [#124](https://github.com/padok-team/burrito/issues/124) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🎉 Merged PR [#1](https://github.com/corrieriluca/burrito/pull/1) in [corrieriluca/burrito](https://github.com/corrieriluca/burrito)
+4. 💪 Opened PR [#1](https://github.com/corrieriluca/burrito/pull/1) in [corrieriluca/burrito](https://github.com/corrieriluca/burrito)
+5. 💪 Opened PR [#14](https://github.com/padok-team/yatas-gcp/pull/14) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
 <!--END_SECTION:activity-->
