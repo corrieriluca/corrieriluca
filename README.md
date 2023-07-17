@@ -33,7 +33,7 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#147](https://github.com/padok-team/burrito/pull/147) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. ❗️ Opened issue [#146](https://github.com/padok-team/burrito/issues/146) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. ❗ Opened issue [#146](https://github.com/padok-team/burrito/issues/146) in [padok-team/burrito](https://github.com/padok-team/burrito)
 3. 💪 Opened PR [#145](https://github.com/padok-team/burrito/pull/145) in [padok-team/burrito](https://github.com/padok-team/burrito)
 4. 💪 Opened PR [#144](https://github.com/padok-team/burrito/pull/144) in [padok-team/burrito](https://github.com/padok-team/burrito)
 5. 💪 Opened PR [#138](https://github.com/padok-team/burrito/pull/138) in [padok-team/burrito](https://github.com/padok-team/burrito)
