@@ -32,9 +32,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/padok-team/yatas/issues/111#issuecomment-1655800301) in [padok-team/yatas](https://github.com/padok-team/yatas)
-2. 🎉 Merged PR [#26](https://github.com/padok-team/yatas-gcp/pull/26) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-3. ❗ Opened issue [#116](https://github.com/padok-team/yatas-aws/issues/116) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
-4. 🎉 Merged PR [#21](https://github.com/padok-team/yatas-gcp/pull/21) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-5. 🎉 Merged PR [#23](https://github.com/padok-team/yatas-gcp/pull/23) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+1. 🎉 Merged PR [#112](https://github.com/padok-team/yatas/pull/112) in [padok-team/yatas](https://github.com/padok-team/yatas)
+2. 🗣 Commented on [#112](https://github.com/padok-team/yatas/pull/112#issuecomment-1657899359) in [padok-team/yatas](https://github.com/padok-team/yatas)
+3. 🗣 Commented on [#111](https://github.com/padok-team/yatas/issues/111#issuecomment-1655800301) in [padok-team/yatas](https://github.com/padok-team/yatas)
+4. 🎉 Merged PR [#26](https://github.com/padok-team/yatas-gcp/pull/26) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+5. ❗ Opened issue [#116](https://github.com/padok-team/yatas-aws/issues/116) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
 <!--END_SECTION:activity-->
