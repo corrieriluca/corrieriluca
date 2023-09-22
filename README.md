@@ -32,9 +32,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/padok-team/yatas-gcp/pull/30) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-2. 🎉 Merged PR [#32](https://github.com/padok-team/yatas-gcp/pull/32) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-3. 🎉 Merged PR [#35](https://github.com/padok-team/yatas-gcp/pull/35) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-4. 💪 Opened PR [#167](https://github.com/padok-team/burrito/pull/167) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 💪 Opened PR [#31](https://github.com/padok-team/yatas-gcp/pull/31) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+1. 🎉 Merged PR [#33](https://github.com/padok-team/yatas-gcp/pull/33) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+2. 🎉 Merged PR [#30](https://github.com/padok-team/yatas-gcp/pull/30) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+3. 🎉 Merged PR [#32](https://github.com/padok-team/yatas-gcp/pull/32) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+4. 🎉 Merged PR [#35](https://github.com/padok-team/yatas-gcp/pull/35) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+5. 💪 Opened PR [#167](https://github.com/padok-team/burrito/pull/167) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
