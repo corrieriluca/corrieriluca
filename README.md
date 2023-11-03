@@ -32,9 +32,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#44](https://github.com/padok-team/yatas-gcp/issues/44) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-2. 🎉 Merged PR [#42](https://github.com/padok-team/yatas-gcp/pull/42) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-3. 🎉 Merged PR [#45](https://github.com/padok-team/yatas-gcp/pull/45) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-4. 🗣 Commented on [#44](https://github.com/padok-team/yatas-gcp/issues/44#issuecomment-1792493805) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
-5. 💪 Opened PR [#178](https://github.com/padok-team/burrito/pull/178) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🎉 Merged PR [#130](https://github.com/padok-team/yatas-aws/pull/130) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
+2. 🎉 Merged PR [#132](https://github.com/padok-team/yatas-aws/pull/132) in [padok-team/yatas-aws](https://github.com/padok-team/yatas-aws)
+3. 🔒 Closed issue [#44](https://github.com/padok-team/yatas-gcp/issues/44) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+4. 🎉 Merged PR [#42](https://github.com/padok-team/yatas-gcp/pull/42) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+5. 🎉 Merged PR [#45](https://github.com/padok-team/yatas-gcp/pull/45) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
 <!--END_SECTION:activity-->
