@@ -1,6 +1,6 @@
 ### Hi there, I'm Luca Corrieri
 
-👋 I'm a 22 yo Site Reliability Engineer at [Padok](https://www.padok.fr/) in Paris, France.
+👋 I'm a 23 yo Site Reliability Engineer at [Padok](https://www.padok.fr/) in Paris, France.
 
 ☁️ Currently working on Kubernetes, Terraform, AWS and GCP!
 
