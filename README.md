@@ -30,7 +30,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/padok-team/yatas-gcp/pull/64) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+1. 💪 Opened PR [#319](https://github.com/padok-team/burrito/pull/319) in [padok-team/burrito](https://github.com/padok-team/burrito)
 2. ❌ Closed PR [#63](https://github.com/padok-team/yatas-gcp/pull/63) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
 3. 🎉 Merged PR [#61](https://github.com/padok-team/yatas-gcp/pull/61) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
 4. 🎉 Merged PR [#60](https://github.com/padok-team/yatas-gcp/pull/60) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
