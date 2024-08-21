@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#236](https://github.com/tofuutils/tenv/issues/236) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
-2. 💪 Opened PR [#319](https://github.com/padok-team/burrito/pull/319) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🎉 Merged PR [#61](https://github.com/padok-team/yatas-gcp/pull/61) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
+1. ❗ Opened issue [#237](https://github.com/tofuutils/tenv/issues/237) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
+2. ❗ Opened issue [#236](https://github.com/tofuutils/tenv/issues/236) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
+3. 💪 Opened PR [#319](https://github.com/padok-team/burrito/pull/319) in [padok-team/burrito](https://github.com/padok-team/burrito)
 4. 🎉 Merged PR [#60](https://github.com/padok-team/yatas-gcp/pull/60) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
 5. 💪 Opened PR [#60](https://github.com/padok-team/yatas-gcp/pull/60) in [padok-team/yatas-gcp](https://github.com/padok-team/yatas-gcp)
 <!--END_SECTION:activity-->
