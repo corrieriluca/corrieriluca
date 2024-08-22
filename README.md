@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/padok-team/burrito-examples/pull/33) in [padok-team/burrito-examples](https://github.com/padok-team/burrito-examples)
-2. 💪 Opened PR [#33](https://github.com/padok-team/burrito-examples/pull/33) in [padok-team/burrito-examples](https://github.com/padok-team/burrito-examples)
-3. ❗ Opened issue [#237](https://github.com/tofuutils/tenv/issues/237) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
-4. ❗ Opened issue [#236](https://github.com/tofuutils/tenv/issues/236) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
-5. 💪 Opened PR [#319](https://github.com/padok-team/burrito/pull/319) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#237](https://github.com/tofuutils/tenv/issues/237#issuecomment-2304212760) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
+2. 🎉 Merged PR [#33](https://github.com/padok-team/burrito-examples/pull/33) in [padok-team/burrito-examples](https://github.com/padok-team/burrito-examples)
+3. 💪 Opened PR [#33](https://github.com/padok-team/burrito-examples/pull/33) in [padok-team/burrito-examples](https://github.com/padok-team/burrito-examples)
+4. ❗ Opened issue [#237](https://github.com/tofuutils/tenv/issues/237) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
+5. ❗ Opened issue [#236](https://github.com/tofuutils/tenv/issues/236) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
 <!--END_SECTION:activity-->
