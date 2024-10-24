@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#353](https://github.com/padok-team/burrito/pull/353) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🗣 Commented on [#328](https://github.com/padok-team/burrito/pull/328#issuecomment-2395520031) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🗣 Commented on [#327](https://github.com/padok-team/burrito/issues/327#issuecomment-2356425116) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 💪 Opened PR [#320](https://github.com/padok-team/burrito/pull/320) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🗣 Commented on [#237](https://github.com/tofuutils/tenv/issues/237#issuecomment-2304212760) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
+1. 💪 Opened PR [#1](https://github.com/ARMITIER/terratest/pull/1) in [ARMITIER/terratest](https://github.com/ARMITIER/terratest)
+2. 💪 Opened PR [#353](https://github.com/padok-team/burrito/pull/353) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🗣 Commented on [#328](https://github.com/padok-team/burrito/pull/328#issuecomment-2395520031) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🗣 Commented on [#327](https://github.com/padok-team/burrito/issues/327#issuecomment-2356425116) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 💪 Opened PR [#320](https://github.com/padok-team/burrito/pull/320) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
