@@ -1,6 +1,6 @@
 ### Hi there, I'm Luca Corrieri
 
-👋 I'm a Site Reliability Engineer and Data Engineer at [Theodo Cloud](https://cloud.theodo.com/) in Paris, France.
+👋 I'm a Site Reliability Engineer at [Theodo Cloud](https://cloud.theodo.com/) in Paris, France.
 
 ☁️ Currently working on Kubernetes, Terraform, AWS and GCP!
 
@@ -23,7 +23,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=corrieriluca&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark)](#)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corrieriluca&layout=compact&theme=github_dark)](#)
 
-📫 Feel free to reach me on [Telegram](https://t.me/luccorri) or Discord (@iralo#5475) !
+📫 Feel free to reach me on Discord: `luca.cloud`
 
 ---
 
