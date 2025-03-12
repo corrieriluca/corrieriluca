@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#546](https://github.com/padok-team/burrito/pull/546#issuecomment-2710081259) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🎉 Merged PR [#546](https://github.com/padok-team/burrito/pull/546) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 💪 Opened PR [#538](https://github.com/padok-team/burrito/pull/538) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🎉 Merged PR [#526](https://github.com/padok-team/burrito/pull/526) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🎉 Merged PR [#533](https://github.com/padok-team/burrito/pull/533) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#551](https://github.com/padok-team/burrito/issues/551#issuecomment-2715454486) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🗣 Commented on [#546](https://github.com/padok-team/burrito/pull/546#issuecomment-2710081259) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🎉 Merged PR [#546](https://github.com/padok-team/burrito/pull/546) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 💪 Opened PR [#538](https://github.com/padok-team/burrito/pull/538) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🎉 Merged PR [#526](https://github.com/padok-team/burrito/pull/526) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
