@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#571](https://github.com/padok-team/burrito/pull/571) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🎉 Merged PR [#514](https://github.com/padok-team/burrito/pull/514) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🎉 Merged PR [#563](https://github.com/padok-team/burrito/pull/563) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🎉 Merged PR [#570](https://github.com/padok-team/burrito/pull/570) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🎉 Merged PR [#572](https://github.com/padok-team/burrito/pull/572) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🎉 Merged PR [#586](https://github.com/padok-team/burrito/pull/586) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🎉 Merged PR [#571](https://github.com/padok-team/burrito/pull/571) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🎉 Merged PR [#514](https://github.com/padok-team/burrito/pull/514) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🎉 Merged PR [#563](https://github.com/padok-team/burrito/pull/563) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🎉 Merged PR [#570](https://github.com/padok-team/burrito/pull/570) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
