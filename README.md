@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#612](https://github.com/padok-team/burrito/issues/612#issuecomment-2921982177) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🗣 Commented on [#612](https://github.com/padok-team/burrito/issues/612#issuecomment-2921585767) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🗣 Commented on [#612](https://github.com/padok-team/burrito/issues/612#issuecomment-2921505353) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 💪 Opened PR [#610](https://github.com/padok-team/burrito/pull/610) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🎉 Merged PR [#574](https://github.com/padok-team/burrito/pull/574) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🔒 Closed issue [#612](https://github.com/padok-team/burrito/issues/612) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🎉 Merged PR [#613](https://github.com/padok-team/burrito/pull/613) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🗣 Commented on [#612](https://github.com/padok-team/burrito/issues/612#issuecomment-2921982177) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🗣 Commented on [#612](https://github.com/padok-team/burrito/issues/612#issuecomment-2921585767) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🗣 Commented on [#612](https://github.com/padok-team/burrito/issues/612#issuecomment-2921505353) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
