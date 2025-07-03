@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/virtualroot/awesome-opentofu/pull/101) in [virtualroot/awesome-opentofu](https://github.com/virtualroot/awesome-opentofu)
-2. 💪 Opened PR [#640](https://github.com/padok-team/burrito/pull/640) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🎉 Merged PR [#501](https://github.com/padok-team/burrito/pull/501) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🎉 Merged PR [#573](https://github.com/padok-team/burrito/pull/573) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🎉 Merged PR [#634](https://github.com/padok-team/burrito/pull/634) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#642](https://github.com/padok-team/burrito/issues/642#issuecomment-3032455323) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 💪 Opened PR [#101](https://github.com/virtualroot/awesome-opentofu/pull/101) in [virtualroot/awesome-opentofu](https://github.com/virtualroot/awesome-opentofu)
+3. 💪 Opened PR [#640](https://github.com/padok-team/burrito/pull/640) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🎉 Merged PR [#501](https://github.com/padok-team/burrito/pull/501) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🎉 Merged PR [#573](https://github.com/padok-team/burrito/pull/573) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
