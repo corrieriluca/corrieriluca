@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#626](https://github.com/padok-team/burrito/pull/626#issuecomment-3043848286) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🎉 Merged PR [#650](https://github.com/padok-team/burrito/pull/650) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🗣 Commented on [#641](https://github.com/padok-team/burrito/pull/641#issuecomment-3039187294) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🗣 Commented on [#641](https://github.com/padok-team/burrito/pull/641#issuecomment-3039185142) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🎉 Merged PR [#643](https://github.com/padok-team/burrito/pull/643) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. ❗ Opened issue [#12368](https://github.com/BerriAI/litellm/issues/12368) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+2. 🗣 Commented on [#626](https://github.com/padok-team/burrito/pull/626#issuecomment-3043848286) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🎉 Merged PR [#650](https://github.com/padok-team/burrito/pull/650) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🗣 Commented on [#641](https://github.com/padok-team/burrito/pull/641#issuecomment-3039187294) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🗣 Commented on [#641](https://github.com/padok-team/burrito/pull/641#issuecomment-3039185142) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
