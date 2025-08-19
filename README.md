@@ -30,9 +30,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34774](https://github.com/cilium/cilium/issues/34774#issuecomment-3175828792) in [cilium/cilium](https://github.com/cilium/cilium)
-2. 🗣 Commented on [#655](https://github.com/padok-team/burrito/issues/655#issuecomment-3140374525) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🗣 Commented on [#626](https://github.com/padok-team/burrito/pull/626#issuecomment-3043848286) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#656](https://github.com/padok-team/burrito/issues/656#issuecomment-3198283374) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🗣 Commented on [#34774](https://github.com/cilium/cilium/issues/34774#issuecomment-3175828792) in [cilium/cilium](https://github.com/cilium/cilium)
+3. 🗣 Commented on [#655](https://github.com/padok-team/burrito/issues/655#issuecomment-3140374525) in [padok-team/burrito](https://github.com/padok-team/burrito)
 4. 🎉 Merged PR [#650](https://github.com/padok-team/burrito/pull/650) in [padok-team/burrito](https://github.com/padok-team/burrito)
 5. 🗣 Commented on [#641](https://github.com/padok-team/burrito/pull/641#issuecomment-3039187294) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
