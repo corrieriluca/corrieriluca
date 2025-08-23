@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#657](https://github.com/padok-team/burrito/pull/657) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🎉 Merged PR [#653](https://github.com/padok-team/burrito/pull/653) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🎉 Merged PR [#626](https://github.com/padok-team/burrito/pull/626) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🗣 Commented on [#656](https://github.com/padok-team/burrito/issues/656#issuecomment-3198283374) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🗣 Commented on [#34774](https://github.com/cilium/cilium/issues/34774#issuecomment-3175828792) in [cilium/cilium](https://github.com/cilium/cilium)
+1. 🎉 Merged PR [#617](https://github.com/padok-team/burrito/pull/617) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🎉 Merged PR [#657](https://github.com/padok-team/burrito/pull/657) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🎉 Merged PR [#653](https://github.com/padok-team/burrito/pull/653) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🎉 Merged PR [#626](https://github.com/padok-team/burrito/pull/626) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🗣 Commented on [#656](https://github.com/padok-team/burrito/issues/656#issuecomment-3198283374) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
