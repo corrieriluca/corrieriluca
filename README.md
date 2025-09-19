@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#710](https://github.com/padok-team/burrito/pull/710) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 💪 Opened PR [#710](https://github.com/padok-team/burrito/pull/710) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🎉 Merged PR [#706](https://github.com/padok-team/burrito/pull/706) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🎉 Merged PR [#707](https://github.com/padok-team/burrito/pull/707) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🎉 Merged PR [#709](https://github.com/padok-team/burrito/pull/709) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 💪 Opened PR [#19](https://github.com/padok-team/dojo-guestbook/pull/19) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
+2. 🎉 Merged PR [#11](https://github.com/padok-team/dojo-guestbook/pull/11) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
+3. 🎉 Merged PR [#710](https://github.com/padok-team/burrito/pull/710) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 💪 Opened PR [#710](https://github.com/padok-team/burrito/pull/710) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🎉 Merged PR [#706](https://github.com/padok-team/burrito/pull/706) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
