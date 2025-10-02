@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/padok-team/dojo-guestbook/pull/19) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
-2. 💪 Opened PR [#19](https://github.com/padok-team/dojo-guestbook/pull/19) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
-3. 🎉 Merged PR [#11](https://github.com/padok-team/dojo-guestbook/pull/11) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
-4. 🎉 Merged PR [#710](https://github.com/padok-team/burrito/pull/710) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 💪 Opened PR [#710](https://github.com/padok-team/burrito/pull/710) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. ❗ Opened issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
+2. 🎉 Merged PR [#19](https://github.com/padok-team/dojo-guestbook/pull/19) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
+3. 💪 Opened PR [#19](https://github.com/padok-team/dojo-guestbook/pull/19) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
+4. 🎉 Merged PR [#11](https://github.com/padok-team/dojo-guestbook/pull/11) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
+5. 🎉 Merged PR [#710](https://github.com/padok-team/burrito/pull/710) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
