@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#715](https://github.com/padok-team/burrito/pull/715) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🗣 Commented on [#712](https://github.com/padok-team/burrito/pull/712#issuecomment-3365661052) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. ❗ Opened issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
-4. 🎉 Merged PR [#19](https://github.com/padok-team/dojo-guestbook/pull/19) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
-5. 💪 Opened PR [#19](https://github.com/padok-team/dojo-guestbook/pull/19) in [padok-team/dojo-guestbook](https://github.com/padok-team/dojo-guestbook)
+1. 🗣 Commented on [#712](https://github.com/padok-team/burrito/pull/712#issuecomment-3365661052) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🔒 Labeled issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
+3. 🔒 Labeled issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
+4. 🔒 Labeled issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
+5. ❗ Opened issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
 <!--END_SECTION:activity-->
