@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#712](https://github.com/padok-team/burrito/pull/712#issuecomment-3365661052) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🔒 Labeled issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
+1. 💪 Opened PR [#718](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🗣 Commented on [#712](https://github.com/padok-team/burrito/pull/712#issuecomment-3365661052) in [padok-team/burrito](https://github.com/padok-team/burrito)
 3. 🔒 Labeled issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
 4. 🔒 Labeled issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
-5. ❗ Opened issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
+5. 🔒 Labeled issue [#41970](https://github.com/cilium/cilium/issues/41970) in [cilium/cilium](https://github.com/cilium/cilium)
 <!--END_SECTION:activity-->
