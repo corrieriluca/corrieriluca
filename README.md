@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.9.0-rc.2](https://github.com/padok-team/burrito/releases/tag/v0.9.0-rc.2) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🗣 Commented on [#599](https://github.com/padok-team/burrito/issues/599#issuecomment-3474085265) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 💪 Opened PR [#745](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🗣 Commented on [#509](https://github.com/padok-team/burrito/issues/509#issuecomment-3473743803) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 💪 Opened PR [#744](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🔒 Labeled issue [#756](https://github.com/padok-team/burrito/issues/756) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🗣 Commented on [#756](https://github.com/padok-team/burrito/issues/756#issuecomment-3496611440) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🚀 Published release [v0.9.0-rc.2](https://github.com/padok-team/burrito/releases/tag/v0.9.0-rc.2) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🗣 Commented on [#599](https://github.com/padok-team/burrito/issues/599#issuecomment-3474085265) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 💪 Opened PR [#745](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
