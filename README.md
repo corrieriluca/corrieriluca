@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#761](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🔒 Closed issue [#504](https://github.com/padok-team/burrito/issues/504) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🗣 Commented on [#504](https://github.com/padok-team/burrito/issues/504#issuecomment-3503623797) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🗣 Commented on [#756](https://github.com/padok-team/burrito/issues/756#issuecomment-3503604656) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🗣 Commented on [#756](https://github.com/padok-team/burrito/issues/756#issuecomment-3502751478) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🔒 Closed issue [#310](https://github.com/padok-team/burrito/issues/310) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 💪 Opened PR [#761](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🔒 Closed issue [#504](https://github.com/padok-team/burrito/issues/504) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🗣 Commented on [#504](https://github.com/padok-team/burrito/issues/504#issuecomment-3503623797) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🗣 Commented on [#756](https://github.com/padok-team/burrito/issues/756#issuecomment-3503604656) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
