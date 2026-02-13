@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#837](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 💪 Opened PR [#837](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. ❌ Merged PR [#832](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 💪 Opened PR [#832](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. ❌ Merged PR [#831](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🚀 Published release [v0.10.0](https://github.com/padok-team/burrito/releases/tag/v0.10.0) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. ❌ Merged PR [#837](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 💪 Opened PR [#837](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. ❌ Merged PR [#832](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 💪 Opened PR [#832](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
