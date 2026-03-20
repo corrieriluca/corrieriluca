@@ -27,7 +27,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.10.0](https://github.com/padok-team/burrito/releases/tag/v0.10.0) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#854](https://github.com/padok-team/burrito/pull/854#issuecomment-4099402339) in [padok-team/burrito](https://github.com/padok-team/burrito)
 2. ❌ Merged PR [#837](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
 3. 💪 Opened PR [#837](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
 4. ❌ Merged PR [#832](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
