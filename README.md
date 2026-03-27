@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#863](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. ❌ Merged PR [#859](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 💪 Opened PR [#859](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🗣 Commented on [#44967](https://github.com/cilium/cilium/issues/44967#issuecomment-4141552772) in [cilium/cilium](https://github.com/cilium/cilium)
-5. 🗣 Commented on [#854](https://github.com/padok-team/burrito/pull/854#issuecomment-4099402339) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🚀 Published release [v0.11.0](https://github.com/padok-team/burrito/releases/tag/v0.11.0) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. ❌ Labeled PR [#864](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. ❌ Labeled PR [#801](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. ❌ Labeled PR [#839](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. ❌ Closed PR [#854](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
