@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#560](https://github.com/cocogitto/cocogitto/issues/560#issuecomment-4282495015) in [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto)
-2. 🔒 Unlabeled issue [#894](https://github.com/padok-team/burrito/issues/894) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🔒 Labeled issue [#894](https://github.com/padok-team/burrito/issues/894) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🔒 Labeled issue [#786](https://github.com/padok-team/burrito/issues/786) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🔒 Labeled issue [#768](https://github.com/padok-team/burrito/issues/768) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#897](https://github.com/padok-team/burrito/issues/897#issuecomment-4290521662) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🗣 Commented on [#885](https://github.com/padok-team/burrito/pull/885#issuecomment-4290506042) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🗣 Commented on [#897](https://github.com/padok-team/burrito/issues/897#issuecomment-4290500644) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🗣 Commented on [#560](https://github.com/cocogitto/cocogitto/issues/560#issuecomment-4282495015) in [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto)
+5. 🔒 Unlabeled issue [#894](https://github.com/padok-team/burrito/issues/894) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
