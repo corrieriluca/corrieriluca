@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#904](https://github.com/padok-team/burrito/issues/904) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#690](https://github.com/padok-team/burrito/issues/690#issuecomment-4477645022) in [padok-team/burrito](https://github.com/padok-team/burrito)
 2. 🔒 Labeled issue [#904](https://github.com/padok-team/burrito/issues/904) in [padok-team/burrito](https://github.com/padok-team/burrito)
 3. 🔒 Labeled issue [#904](https://github.com/padok-team/burrito/issues/904) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🔒 Closed issue [#327](https://github.com/padok-team/burrito/issues/327) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🗣 Commented on [#712](https://github.com/padok-team/burrito/pull/712#issuecomment-4314780486) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🔒 Labeled issue [#904](https://github.com/padok-team/burrito/issues/904) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🔒 Closed issue [#327](https://github.com/padok-team/burrito/issues/327) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
