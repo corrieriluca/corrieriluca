@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#12](undefined) in [padok-team/yatas-template](https://github.com/padok-team/yatas-template)
-2. 🗣 Commented on [#921](https://github.com/padok-team/burrito/pull/921#issuecomment-4633208962) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. ❌ Closed PR [#921](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. ❌ Closed PR [#920](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🗣 Commented on [#920](https://github.com/padok-team/burrito/pull/920#issuecomment-4633204243) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#509](https://github.com/padok-team/burrito/issues/509#issuecomment-4650272893) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. ❌ Merged PR [#12](undefined) in [padok-team/yatas-template](https://github.com/padok-team/yatas-template)
+3. 🗣 Commented on [#921](https://github.com/padok-team/burrito/pull/921#issuecomment-4633208962) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. ❌ Closed PR [#921](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. ❌ Closed PR [#920](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
