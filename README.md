@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19600](https://github.com/vectordotdev/vector/issues/19600#issuecomment-4906197510) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-2. 🔒 Closed issue [#900](https://github.com/padok-team/burrito/issues/900) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. ❌ Merged PR [#153](undefined) in [padok-team/guacamole](https://github.com/padok-team/guacamole)
-4. 💪 Opened PR [#153](undefined) in [padok-team/guacamole](https://github.com/padok-team/guacamole)
-5. 🗣 Commented on [#927](https://github.com/padok-team/burrito/pull/927#issuecomment-4770108486) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#25774](https://github.com/vectordotdev/vector/issues/25774#issuecomment-4913185865) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+2. 🗣 Commented on [#19600](https://github.com/vectordotdev/vector/issues/19600#issuecomment-4913044169) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+3. ❗ Opened issue [#25774](https://github.com/vectordotdev/vector/issues/25774) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+4. 🗣 Commented on [#19600](https://github.com/vectordotdev/vector/issues/19600#issuecomment-4906197510) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+5. 🔒 Closed issue [#900](https://github.com/padok-team/burrito/issues/900) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
