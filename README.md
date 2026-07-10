@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#892](https://github.com/padok-team/burrito/issues/892) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🔒 Closed issue [#887](https://github.com/padok-team/burrito/issues/887) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🗣 Commented on [#25774](https://github.com/vectordotdev/vector/issues/25774#issuecomment-4913185865) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-4. 🗣 Commented on [#19600](https://github.com/vectordotdev/vector/issues/19600#issuecomment-4913044169) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-5. ❗ Opened issue [#25774](https://github.com/vectordotdev/vector/issues/25774) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+1. 🔒 Assigned issue [#891](https://github.com/padok-team/burrito/issues/891) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🔒 Closed issue [#509](https://github.com/padok-team/burrito/issues/509) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🔒 Closed issue [#890](https://github.com/padok-team/burrito/issues/890) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🔒 Closed issue [#892](https://github.com/padok-team/burrito/issues/892) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🔒 Closed issue [#887](https://github.com/padok-team/burrito/issues/887) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
