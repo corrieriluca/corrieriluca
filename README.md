@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#886](https://github.com/padok-team/burrito/issues/886) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. 🔒 Closed issue [#889](https://github.com/padok-team/burrito/issues/889) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🔒 Closed issue [#888](https://github.com/padok-team/burrito/issues/888) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🚀 Published release [v0.13.0](https://github.com/padok-team/burrito/releases/tag/v0.13.0) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. ❌ Merged PR [#969](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 💪 Opened PR [#971](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. 🔒 Closed issue [#886](https://github.com/padok-team/burrito/issues/886) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🔒 Closed issue [#889](https://github.com/padok-team/burrito/issues/889) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 🔒 Closed issue [#888](https://github.com/padok-team/burrito/issues/888) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. 🚀 Published release [v0.13.0](https://github.com/padok-team/burrito/releases/tag/v0.13.0) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
