@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1186](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-2. ❌ Closed PR [#1090](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
-3. 🔒 Closed issue [#221](https://github.com/padok-team/burrito/issues/221) in [padok-team/burrito](https://github.com/padok-team/burrito)
-4. 🔒 Closed issue [#690](https://github.com/padok-team/burrito/issues/690) in [padok-team/burrito](https://github.com/padok-team/burrito)
-5. 🗣 Commented on [#1159](https://github.com/padok-team/burrito/pull/1159#issuecomment-5955627163) in [padok-team/burrito](https://github.com/padok-team/burrito)
+1. 🗣 Commented on [#1090](https://github.com/padok-team/burrito/pull/1090#issuecomment-6369299867) in [padok-team/burrito](https://github.com/padok-team/burrito)
+2. ❌ Merged PR [#1159](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+3. 🚀 Published release [v0.15.0](https://github.com/padok-team/burrito/releases/tag/v0.15.0) in [padok-team/burrito](https://github.com/padok-team/burrito)
+4. 💪 Opened PR [#1186](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
+5. ❌ Closed PR [#1090](undefined) in [padok-team/burrito](https://github.com/padok-team/burrito)
 <!--END_SECTION:activity-->
